@@ -1,5 +1,5 @@
-#SeburSum#
-Code for paper SeburSum: A Novel Set-based Summary Ranking Strategy for Summary-level Extractive Summarization
+#Code for paper SeburSum: A Novel Set-based Summary Ranking Strategy for Summary-level Extractive Summarization#
+
 We publish the set-based summary ranking strategy (SeburSum) code, best checkpoints and test data to evaluate the results.
 Contrastive learning training code will be released soon！
 
