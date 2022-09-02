@@ -4,9 +4,9 @@
 We publish the set-based summary ranking strategy (SeburSum) code, best checkpoints and test data to evaluate the results.
 Contrastive learning training code will be released soon！
 
-The test data is available at :<>
+The test data is available at :<https://drive.google.com/file/d/1_XF_XjVdGMDH6ZnJ8aDKTMFRdRj_EBGM/view?usp=sharing>
 
-The  checkpoints are available <>
+The  checkpoints are available <https://drive.google.com/file/d/1_DcU2fhqVI8ez4iYVdoui7J5_r-ZVlN6/view?usp=sharing>
 
 
 
